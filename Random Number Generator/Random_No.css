@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana;
+    background-color: bisque;
+}
+
+#btn {
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+    background-color: #333;
+    transition: background-color 0.3s ease;
+    color: azure;
+}
+
+#btn:hover {
+    background-color: #222;
+}
+
+#label {
+    font-size: 6rem;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
