@@ -8,3 +8,4 @@ This is my First Javascript Session and I'm Excited!!
 6th Day - Temperature Converter(Some Update), Rest Parameters, Spread Operators, Dice Program, Array & 2D       Array, Dice Converter 
 7th Day - This / Reduce / Objects / Maps / Filter Keywords, Function Expression, ForEach, CallBack, Arrow Function, Class, Constructors 
 8th Day - Static and Super Keywords, Inheritance
+9th Day - Sort Method, Shuffle Array(Optional), Arrays of Objects, Destructuring, Get & Set Keywords, Nested Objects
