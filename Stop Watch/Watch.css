@@ -1,0 +1,69 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(147, 237, 237);
+}
+
+#myh1 {
+    font-size: 4rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #444;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid;
+    border-radius: 50px;
+    padding: 30px;
+    background-color: aliceblue;
+}
+
+#display {
+    font-size: 5rem;
+    font-family: monospace;
+    font-weight: bold;
+    color: #555;
+    text-shadow: 2px 2px 2px #666;
+    margin-bottom: 25px;
+}
+
+#controls button {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 5px;
+    min-width: 125px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    transition: background-color 0.5s ease;
+}
+
+#start {
+    background-color: rgb(32, 218, 32);
+}
+
+#start:hover {
+    background-color: rgb(48, 176, 48);
+}
+
+#stop {
+    background-color: rgb(215, 62, 62);
+}
+
+#stop:hover {
+    background-color: rgb(196, 72, 72);
+}
+
+#reset {
+    background-color: rgb(120, 120, 240);
+}
+
+#reset:hover {
+    background-color: rgb(107, 107, 206);
+}
