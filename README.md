@@ -11,3 +11,4 @@ This is my First Javascript Session and I'm Excited!!
 9th Day - Sort Method, Shuffle Array(Optional), Arrays of Objects, Destructuring, Get & Set Keywords, Nested Objects
 10th Day - Time, SetTimeout, Format String, Dates, Closures, Digital Clock, Interest Calculator
 11th Day - Synchronous and Asynchronous, ES6 Module, Errors, Stop Watch, Calculator
+12th Day - Element Selector, DOM, DOM Navigation, Add & Change HTML Elements
