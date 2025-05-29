@@ -14,3 +14,4 @@ This is my First Javascript Session and I'm Excited!!
 12th Day - Element Selector, DOM, DOM Navigation, Add & Change HTML Elements
 13th Day - Key Events, Mouse Events, Node List, Show and Hide Events Listeners
 14th Day - Promises, Async/Await, Callback Hell, ClassList
+15th Day - Fetch, Cookies, JSON 
